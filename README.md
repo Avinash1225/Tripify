@@ -3,7 +3,7 @@
 https://avinash1225.github.io/Tripify/ - Tap here for a quick preview of my project.
 
 
-The sections of this project are:
+# Sections 
 ✅ responsive header with navbar menu toggle effect using vanilla javascript.
 ✅ responsive home section using css flexbox.
 ✅ responsive about section using css flexbox.
