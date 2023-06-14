@@ -1,6 +1,6 @@
 # Tripify
 
-https://avinash1225.github.io/Tripify/ - Tap here for a quick preview of my project.
+ https://am-avinash.github.io/Tripify/ - Tap here for a quick preview of my project.
 
 
 # Sections 
